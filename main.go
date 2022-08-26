@@ -1,4 +1,4 @@
-package crdApiServer
+package crdapiserver
 
 const (
   AUTH = "SSH_AUTH_SOCK"
